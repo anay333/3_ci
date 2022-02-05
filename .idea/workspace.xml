@@ -32,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="24bqanxSUaLobxfRBtgg3jGvqzB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Gradle.postmanEcho.shouldReturnData">
+  <component name="RunManager" selected="Gradle.postmanEcho">
     <configuration name="postmanEcho" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -90,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.postmanEcho.shouldReturnData" />
         <item itemvalue="Gradle.postmanEcho" />
+        <item itemvalue="Gradle.postmanEcho.shouldReturnData" />
       </list>
     </recent_temporary>
   </component>
