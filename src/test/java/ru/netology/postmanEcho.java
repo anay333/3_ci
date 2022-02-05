@@ -24,7 +24,7 @@ public class postmanEcho {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("123",is("some data"))
+                .body("data",is("some data"))
         ;
     }
 }
