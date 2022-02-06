@@ -27,4 +27,3 @@ public class postmanEcho {
                 .body("data",is("some data"))
         ;
     }
-}
